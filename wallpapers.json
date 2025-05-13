@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "title": "Mountain Landscape",
+    "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/WallPik-Content/main/wallpapers/mountain.jpg",
+    "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/WallPik-Content/main/thumbnails/mountain.jpg",
+    "categories": ["Nature", "Landscape"],
+    "tags": ["mountains", "sunset", "scenic"],
+    "author": "John Doe",
+    "dateAdded": "2024-03-15T12:00:00Z"
+  }
+]
