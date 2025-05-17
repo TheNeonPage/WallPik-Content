@@ -12,19 +12,5 @@
             "full": "wallpapers/full/pexels-arts-1496373.jpg",
             "thumbnail": "wallpapers/thumbnails/pexels-arts-1496373.jpg"
         }
-    },
-    {
-        "name": "Screenshot 2025-05-09 232304.png",
-        "title": "Screenshot 2025-05-09 232304",
-        "author": "",
-        "category": "nature",
-        "tags": [
-            "trees"
-        ],
-        "uploadDate": "2025-05-17T19:48:34.860Z",
-        "paths": {
-            "full": "wallpapers/full/Screenshot 2025-05-09 232304.png",
-            "thumbnail": "wallpapers/thumbnails/Screenshot 2025-05-09 232304.png"
-        }
     }
 ]
