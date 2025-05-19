@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "name": "dddasa.png",
+        "title": "dddasa",
+        "author": "",
+        "category": "nature",
+        "tags": [],
+        "uploadDate": "2025-05-19T15:13:43.509Z",
+        "paths": {
+            "full": "wallpapers/full/dddasa.png",
+            "thumbnail": "wallpapers/thumbnails/dddasa.png"
+        }
+    }
+]
