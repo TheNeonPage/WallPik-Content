@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "name": "Nature.jpg",
+        "title": "Nature",
+        "author": "",
+        "category": "trees",
+        "tags": [],
+        "uploadDate": "2025-05-19T15:21:20.640Z",
+        "paths": {
+            "full": "wallpapers/full/Nature.jpg",
+            "thumbnail": "wallpapers/thumbnails/Nature.jpg"
+        }
+    }
+]
