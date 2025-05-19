@@ -26,5 +26,19 @@
             "full": "wallpapers/full/rrr.jpg",
             "thumbnail": "wallpapers/thumbnails/rrr.jpg"
         }
+    },
+    {
+        "name": "rrrs.jpg",
+        "title": "rrrs",
+        "author": "",
+        "category": "nature",
+        "tags": [
+            "trees"
+        ],
+        "uploadDate": "2025-05-19T14:54:40.059Z",
+        "paths": {
+            "full": "wallpapers/full/rrrs.jpg",
+            "thumbnail": "wallpapers/thumbnails/rrrs.jpg"
+        }
     }
 ]
